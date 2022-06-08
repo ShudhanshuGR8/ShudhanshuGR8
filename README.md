@@ -2,7 +2,7 @@
 <a href="#"><img width="480px" height="480px" align = "center" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"/></a>
 </p>
     
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20" height = "20">, I'm Shudhanshu Shrotriya!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height = "50">, I'm Shudhanshu Shrotriya!</h1>
 <h3 align="center">I'm an Under-Grad pursuing my B.Tech Computer Science with Spz. in Artificial Intelligence & Machine Learning.</h3>
 
 
