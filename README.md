@@ -1,5 +1,5 @@
 <p align = "center">
-<a href="#"><img width="480px" height="480px" align = "center" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"/></a>
+<a href="#"><img width="420px" height="400px" align = "center" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"/></a>
 </p>
     
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shudhanshu Shrotriya!</h1>
