@@ -12,11 +12,13 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++.**
 
+- 💻 I'm currently also learning **Data Science and Deep Learning.**
+
 - 👯 I’m working with OPEN Community and together we collaborate on **OpenSource Projects**.
 
-- 📫 How to reach me **shudhanshuanthem@gmail.com**
+- 📫 How to reach me  ->  **shudhanshuanthem@gmail.com**
 
-- ⚡ Fun fact **I play video games and watrch animes very often.**
+- ⚡ Fun fact **I play video games and watch animes very often.**
 
 ## 🚀 Languages and Tools:
 
