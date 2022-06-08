@@ -75,6 +75,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/ShudhanshuGR8">
-    <img src="https://komarev.com/ghpvc/?username=ShudhanshuGR8">
+    <img src="https://img.shields.io/badge/Profile%20Views-%20-brightgreen">
 </a>
-<a href="https://github.com/ShudhanshuGR8?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ShudhanshuGR8?tab=followers"><img src="https://img.shields.io/badge/Followers-%20%20-blue" alt="GitHub Badge"></a>
