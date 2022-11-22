@@ -14,7 +14,7 @@
 
 - 💻 I'm currently also learning **Data Science and Deep Learning.**
 
-- 👯 I’m working with OPEN Community and together we collaborate on **OpenSource Projects**.
+- 👯 I have worked with OPEN Community and together we collaborated on various **OpenSource Projects**.
 
 - 📫 How to reach me  ->  **shudhanshuanthem@gmail.com**
 
@@ -26,15 +26,11 @@
      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/postgreesql.png"/> </a> 
-    <a href="https://geoserver.org/" target="_blank"> <img src="https://th.bing.com/th/id/R.90f91ada1dc165c03a28ff1164a95671?rik=ZAoRIFR4YZdDOQ&riu=http%3a%2f%2fblog.geoserver.org%2fwp-content%2fuploads%2f2016%2f01%2fcropped-geoserver_icon.png&ehk=soKLvFI26J3NMA3HHaQYSP8wKdlM3l0JDrIDaU5b%2bbY%3d&risl=&pid=ImgRaw&r=0" alt="Geoserver" width="48" height="48"/> </a> 
     <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://cdn.imgbin.com/14/17/24/imgbin-scikit-learn-python-scikit-logo-brand-learning-iXpsDcwhTZJVhrk2DNdHRBRBE.jpg" alt="Scikit-learn" width="48" height="48"/> </a>
     <a href="https://leafletjs.com/" target="_blank"> <img src="https://f0.pngfuel.com/png/347/210/leaflet-javascript-library-web-browser-plug-in-software-framework-others-png-clip-art.png" alt="leaflet" width="40" height="40"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://www.clipartkey.com/mpngs/m/145-1450089_python-flask-icon.png" alt="flask" width="40" height="40"/> </a>
